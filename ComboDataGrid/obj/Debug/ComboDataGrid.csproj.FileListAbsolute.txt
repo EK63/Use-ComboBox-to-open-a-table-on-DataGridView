@@ -1,0 +1,12 @@
+D:\05-Church\85-ParishRegistry\Samples\ComboDataGrid\ComboDataGrid\bin\Debug\Picklist.mdf
+D:\05-Church\85-ParishRegistry\Samples\ComboDataGrid\ComboDataGrid\bin\Debug\Picklist_log.ldf
+D:\05-Church\85-ParishRegistry\Samples\ComboDataGrid\ComboDataGrid\bin\Debug\ComboData.exe.config
+D:\05-Church\85-ParishRegistry\Samples\ComboDataGrid\ComboDataGrid\bin\Debug\ComboData.exe
+D:\05-Church\85-ParishRegistry\Samples\ComboDataGrid\ComboDataGrid\bin\Debug\ComboData.pdb
+D:\05-Church\85-ParishRegistry\Samples\ComboDataGrid\ComboDataGrid\obj\Debug\ComboDataGrid.csprojAssemblyReference.cache
+D:\05-Church\85-ParishRegistry\Samples\ComboDataGrid\ComboDataGrid\obj\Debug\ComboData.Properties.Resources.resources
+D:\05-Church\85-ParishRegistry\Samples\ComboDataGrid\ComboDataGrid\obj\Debug\ComboDataGrid.csproj.GenerateResource.cache
+D:\05-Church\85-ParishRegistry\Samples\ComboDataGrid\ComboDataGrid\obj\Debug\ComboDataGrid.csproj.CoreCompileInputs.cache
+D:\05-Church\85-ParishRegistry\Samples\ComboDataGrid\ComboDataGrid\obj\Debug\ComboData.exe
+D:\05-Church\85-ParishRegistry\Samples\ComboDataGrid\ComboDataGrid\obj\Debug\ComboData.pdb
+D:\05-Church\85-ParishRegistry\Samples\ComboDataGrid\ComboDataGrid\obj\Debug\ComboData.frmMain.resources
